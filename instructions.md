@@ -768,9 +768,6 @@ https://image.pollinations.ai/prompt/коты%20играют%22?width=1024&heigh
 - Пример использования: `{{setModel({settings: {temperature: 0.8} })}}`
 
 - Результат: Изменяются настройки модели.
----
-
-	
 		
 ---
 26. ### setCtx
