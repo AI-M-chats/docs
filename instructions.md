@@ -602,7 +602,7 @@ https://image.pollinations.ai/prompt/коты%20играют%22?width=1024&heigh
     
 -   **Пример использования**:
     ```
-    {{const result = await useWeb({
+    {{useWeb({
     url: 'https://example.com',
     actions: [
         // 1. Ожидание элемента
